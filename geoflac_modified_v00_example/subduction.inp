@@ -69,6 +69,8 @@
 ;
 ; Gravity
 10.
+; limit uppper force
+0, 6.7d+12, 9d-1, 1.1d0 ; (1 = open this limit), limit force, decfactor, incator
 ;=============================================================
 ;            C o n d i t i o n s : T h e r m a l
 ;=============================================================
