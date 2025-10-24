@@ -4,7 +4,7 @@
 #PBS -e stderr.$PBS_JOBID
 #PBS -V
 #PBS -q q25g2
-#PBS -N geoflac_modified_example
+#PBS -N GRm
 #PBS -l nodes=1:ppn=8
 
 export OMP_NUM_THREADS=8  # same as ppn
